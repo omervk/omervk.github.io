@@ -2,7 +2,6 @@
 layout: post
 title: About
 permalink: /about
-author: Omer van Kloeten
 ---
 
 A veteran software developer of 16 years with a wide range of experience in leading roles, ranging from Dev Lead, through Architect to CTO. Major contributor to four startup exits. Impossibly passionate about his work. A generalist at heart with a strong emphasis on the backend and distributed systems, with a dash of machine learning on one hand and the user experience in the frontend on the other. Strong opinions, weakly held.
