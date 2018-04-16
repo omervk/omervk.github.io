@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: omervk
+title: Omer van Kloeten
 email: omer.van.kloeten@gmail.com
+author:
+  name: Omer van Kloeten
 description: >- # this means to ignore newlines until "baseurl:"
   Random thoughts going through my mind
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://omervk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: omervk
-github_username:  omervk
+twitter_username:   omervk
+github_username:    omervk
+linkedin_username:  omervk
 
 # Build settings
 markdown: kramdown
@@ -30,7 +33,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-remote_theme: chesterhow/tale
+remote_theme: omervk/tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
